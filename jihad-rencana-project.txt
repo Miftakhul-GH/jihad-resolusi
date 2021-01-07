@@ -1,4 +1,6 @@
 RENCANA PROJECT JIHAD
 -java script
+ *ES6
+ *fremwork javascript
 -PHP fremworks
 -project
