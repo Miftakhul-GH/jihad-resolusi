@@ -2,5 +2,6 @@ RENCANA PROJECT JIHAD
 -java script
  *ES6
  *fremwork javascript
+-struktur data dasar
 -PHP fremworks
 -project
