@@ -5,3 +5,4 @@ RENCANA PROJECT JIHAD
 -struktur data dasar
 -PHP fremworks
 -project
+-angular
